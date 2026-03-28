@@ -1,3 +1,3 @@
-# Chrome console code
+Web Javascript Console program to get a lot (**a lot !**) of cookies. 
 
-just open developer tools and paste da code in console tab
+I'm on my way to add new functionalities to the code...
